@@ -1,16 +1,13 @@
-## Hi there 👋
+##  vindas ao meu perfil 💗 
 
-<!--
-**034SERGIPE/034SERGIPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Giovana Silva 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javascript
+- UTILISO esse espaso para minha organização e compartilhamento dos meus projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçe entra em contato comigo
+
+00001058890396sp@al.eucacao.sp.gov.br
+
+034SERGIPE
